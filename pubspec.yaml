@@ -1,0 +1,17 @@
+name: pgyer_api
+description: 蒲公英上传Api接口
+version: 1.0.0
+repository: https://github.com/josercc/pgyer_api
+
+environment:
+  sdk: ^3.1.0
+
+dependencies:
+  path: ^1.8.0
+  dio: ^5.4.0
+  yaml: ^3.1.2
+  darty_json_safe: ^1.0.3
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
